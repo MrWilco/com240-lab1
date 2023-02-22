@@ -1,5 +1,5 @@
-#COM 240 Lab 1
-###Python Cipher Scripts
+# COM 240 Lab 1
+### Python Cipher Scripts
 
 These scripts are for COM 240 Lab 1.
 q4.py is question 4.
